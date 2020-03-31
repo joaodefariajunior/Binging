@@ -1,0 +1,30 @@
+
+h1,h3{
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 1pt 1pt 1pt black;
+    padding:20px;
+}
+body {
+    margin: 0 auto;
+    background: rgb(0, 212, 255);
+    background: radial-gradient(circle, rgba(0, 212, 255, 1) -99%, rgba(53, 18, 128, 1) 16%, rgba(36, 0, 4, 0.10688025210084029) 100%, rgba(9, 9, 121, 1) 100%);
+}
+div,
+a {
+
+    width: 55%;
+    text-shadow: 2px 2px 2px black;
+    margin: 0 auto;
+    font-family: 'Fjalla One', sans-serif;
+    font-size:20px;
+}
+
+.cor{width:50%;
+    margin-left: 25%;
+    padding:10px;
+}
+.car{
+    width:500pt;
+    height:300pt;
+}
